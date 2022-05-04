@@ -76,6 +76,6 @@ Deon Chan Tian Wee deonchan23
 
 Ng Meichan ngmeichan
 
-Quek Tze Jen Eugene EugeneQuek
+Quek Tze Jen Eugene | EugeneQuek | https://github.com/EugeneQuek/myfirstproject  
 
 Chew Hui Teng
